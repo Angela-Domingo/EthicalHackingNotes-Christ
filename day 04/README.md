@@ -40,9 +40,7 @@ Port Forwarding
 Sends data from a router’s public port to a device inside the network. Used for hosting games, websites, etc.
 
 Payload & Backdoor
-
 Payload: The harmful part of malware (runs after system is hacked)
-
 Backdoor: Secret way to get into a system
 
 UAC (User Access Control)
